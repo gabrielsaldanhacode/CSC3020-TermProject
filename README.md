@@ -10,4 +10,4 @@ This project is a web-based application designed to solve the problem of manuall
 
 ### Setup Instructions
 *(This section will be updated in a future milestone with instructions on how to run the project locally.)*
-[View Full Project Documentation on Confluence]([PASTE YOUR CONFLUENCE LINK HERE])
+[View Full Project Documentation on Confluence]([https://my-team-sqsjegqu.atlassian.net/wiki/spaces/~7120206cdcb05d18b14239b038666a48b8ebce/pages/98314/CSC3020+Term+Project+Milestone+1.])
