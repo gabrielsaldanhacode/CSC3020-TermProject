@@ -10,3 +10,4 @@ This project is a web-based application designed to solve the problem of manuall
 
 ### Setup Instructions
 *(This section will be updated in a future milestone with instructions on how to run the project locally.)*
+[View Full Project Documentation on Confluence]([PASTE YOUR CONFLUENCE LINK HERE])
