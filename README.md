@@ -13,3 +13,5 @@ This project is a web-based application designed to solve the problem of manuall
 [View Full Project Documentation on Confluence]([https://my-team-sqsjegqu.atlassian.net/wiki/spaces/~7120206cdcb05d18b14239b038666a48b8ebce/pages/98314/CSC3020+Term+Project+Milestone+1.])
 
 Milestone 2: Added Docker setup. [See Confluence for details](https://my-team-sqsjegqu.atlassian.net/wiki/spaces/~7120206cdcb05d18b14239b038666a48b8ebce/pages/9076737/Milestone+2+Docker+Setup)
+
+Milestone 3: Explored AI-assisted tools for project documentation and design (see Confluence for details).(https://my-team-sqsjegqu.atlassian.net/wiki/x/AYAIAQ)
