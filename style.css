@@ -1,0 +1,17 @@
+.header-bg {
+    background-color: #007bff;
+    color: white;
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.stat-card {
+    border: none;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0.75rem;
+}
+.table-custom {
+    border-radius: 0.75rem;
+    overflow: hidden;
+}
